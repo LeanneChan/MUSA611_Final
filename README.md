@@ -1,8 +1,8 @@
 # MUSA611_Final
 Final Project for MUSA611 Spring
 
-Leanne Chan
-47188003
+Leanne Chan  
+47188003  
 llchan@design.upenn.edu
 
 # Dengue Hot spots Score Builder in Singapore 
