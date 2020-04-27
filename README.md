@@ -5,6 +5,8 @@ Leanne Chan
 47188003  
 llchan@design.upenn.edu
 
+https://leannechan.github.io/MUSA611_Final/
+
 # Dengue Hot spots Score Builder in Singapore 
 Dengue fever is spread by ades mosquitos and has been a problem in Singapore for many years. The main purpose of the application is for planners to idenitfy ares which might be dengue hotspots, allowing them to prioritize ares for mosquitio fogging. This is especially important given the current coronavirus situation where almost half of Singapore's migrant worker workforce has been quarantined, and services like fogging have been affected. 
 
